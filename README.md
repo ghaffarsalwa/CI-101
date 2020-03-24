@@ -1,2 +1,2 @@
 # INFO-101
-CI-101 Assignments
+INFO-101 Assignments
