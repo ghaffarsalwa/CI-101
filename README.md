@@ -1,2 +1,2 @@
-# CI-101
+# INFO-101
 CI-101 Assignments
